@@ -7,7 +7,7 @@
 
 <hr>
 
-<p align="center" style="display: flex; align-items: center; justify-content: space-around">
+<p align="center" style="display: flex; align-items: center; justify-content: center">
 <img src="https://github-readme-stats.vercel.app/api?username=jonatasfernandespimenta&theme=blueberry&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasfernandespimenta&show_icons=true&theme=blueberry&hide_border=true&cache_seconds=1800&locale=en" alt="jhonny" />
   </p>
