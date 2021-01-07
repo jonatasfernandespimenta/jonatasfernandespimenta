@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Quadroo
+- 🔭 I’m currently working on Quadroo and on Obux
 - 🌱 I’m currently learning AI, Laravel and improving my JS skills
 - 💬 Ask me about Python and Javascript
 - 📫 How to reach me: jonatasfernandespimenta@gmail.com
