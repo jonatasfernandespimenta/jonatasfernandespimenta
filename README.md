@@ -5,7 +5,7 @@
 - 💬 Ask me about Python and Javascript
 
 ### How to reach me: 
- <p>Email: jonatasfernandespimenta@gmail.com</p>
+ <a href="jonatas.fernandes.pimenta@gmail.com"><img width=150 src="./GmailTag.png" /></a>
  <img width=150 src="./DiscordTag.png" />
 
 <hr>
