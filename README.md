@@ -6,7 +6,7 @@
 
 ### How to reach me: 
  <p>Email: jonatasfernandespimenta@gmail.com</p>
- <p>Discord: Jhonny#8280</p>
+ <img width=150 src="./DiscordTag.png" />
 
 <hr>
 
