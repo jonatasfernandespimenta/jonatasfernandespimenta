@@ -1,9 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on Quadroo and on [Obux](https://github.com/jonatasfernandespimenta/Obux)
 - 🌱 I’m currently learning AI, Laravel and improving my JS skills
 - 💬 Ask me about Python and Javascript
-- 📫 How to reach me: jonatasfernandespimenta@gmail.com
+
+### How to reach me: 
+ <p>Email: jonatasfernandespimenta@gmail.com</p>
+ <p>Discord: Jhonny#8280</p>
 
 <hr>
 
