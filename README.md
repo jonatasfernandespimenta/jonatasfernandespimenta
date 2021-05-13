@@ -1,8 +1,8 @@
-## Hi there 👋
+## <img width="5%" src="https://cdn2.scratch.mit.edu/get_image/gallery/365192_170x100.png" />  Hello, welcome to my GitHub
 
+#### What I am doing:
 - 🔭 I’m currently working on [Quadroo](https://quadroo.com.br/)🔒 and on [Obux](https://github.com/jonatasfernandespimenta/Obux)🔓
 - 🌱 I’m currently learning AI, Laravel and improving my JS skills
-- 💬 Ask me about Python and Javascript
 
 ### How to reach me: 
  <a href="mailto:jonatas.fernandes.pimenta@gmail.com"><img width=150 src="./GmailTag.png" /></a>
