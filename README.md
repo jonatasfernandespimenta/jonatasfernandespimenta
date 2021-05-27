@@ -1,4 +1,4 @@
-## <img width="5%" src="https://cdn2.scratch.mit.edu/get_image/gallery/365192_170x100.png" />  Hello, welcome to my GitHub
+## Hello, welcome to my GitHub
 
 #### What I am doing:
 - 🔭 I’m currently working on [Quadroo](https://quadroo.com.br/)🔒 and on [Obux](https://github.com/jonatasfernandespimenta/Obux)🔓
