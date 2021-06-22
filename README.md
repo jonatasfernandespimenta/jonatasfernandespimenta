@@ -7,7 +7,7 @@
 ### How to reach me: 
  <a href="mailto:jonatas.fernandes.pimenta@gmail.com"><img width=150 src="./GmailTag.png" /></a>
  <img width=150 src="./DiscordTag.png" />
-
+ <a href="https://www.linkedin.com/in/j%C3%B4natas-fernandes-pimenta-67069b199/">LinkedIN</a>
 <hr>
 
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
