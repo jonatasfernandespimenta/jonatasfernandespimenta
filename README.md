@@ -1,7 +1,7 @@
 ## Hello, welcome to my GitHub
 
 #### What I am doing:
-- 🔭 I’m currently working on [Quadroo](http://www.quadroo.com.br/#/)🔒 and on [Obux](https://github.com/jonatasfernandespimenta/Obux)🔓
+- 🔭 I’m currently working on [Quadroo](https://www.quadroo.com.br/)🔒 and on [Obux](https://github.com/jonatasfernandespimenta/Obux)🔓
 - 🌱 I’m currently learning AI, Laravel and Java Spring
 
 ### How to reach me: 
