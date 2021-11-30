@@ -1,7 +1,7 @@
 ## Hello, welcome to my GitHub
 
 #### About me:
-- 🔭 working on [Obux](https://github.com/jonatasfernandespimenta/Obux)🔓
+- 🔭 working on [Obux](https://github.com/jonatasfernandespimenta/Obux)
 - 🌱 Currently learning AI, Laravel and Java Spring
 - ☀️ Fullstack developer and DevOps at [Sol Copernico](https://www.solcopernico.com.br/)
 
