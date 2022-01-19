@@ -3,7 +3,7 @@
 #### About me:
 - 🔭 working on [Obux](https://github.com/jonatasfernandespimenta/Obux)
 - 🌱 Currently learning AI, Laravel and Java Spring
-- ☀️ Fullstack developer and DevOps at [Sol Copernico](https://www.solcopernico.com.br/)
+- ☀️ Fullstack developer at [Sol Copernico](https://www.solcopernico.com.br/)
 
 ### How to reach me: 
  <a href="mailto:jonatas.fernandes.pimenta@gmail.com"><img width=150 src="./GmailTag.png" /></a>
