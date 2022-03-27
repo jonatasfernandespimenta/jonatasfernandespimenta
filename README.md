@@ -1,8 +1,6 @@
 ## Hello, welcome to my GitHub
 
 #### About me:
-- 🔭 working on [Obux](https://github.com/jonatasfernandespimenta/Obux)
-- 🌱 Currently learning AI, Laravel and Java Spring
 - ☀️ Fullstack developer at [Sol Copernico](https://www.solcopernico.com.br/)
 
 ### How to reach me: 
