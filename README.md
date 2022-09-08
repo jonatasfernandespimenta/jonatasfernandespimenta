@@ -6,7 +6,7 @@
 <br/>
 
 #### Techs I use:
-<div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
+<p align="center">
 
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
@@ -24,7 +24,7 @@
 <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
 
 
-</div>
+</p>
 
 <br/>
 
