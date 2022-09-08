@@ -1,4 +1,4 @@
-## Hello, welcome to my GitHub
+<img src="header.png"/>
 
 #### About me:
 - ☀️ Fullstack developer at [Sol Copernico](https://www.solcopernico.com.br/)
