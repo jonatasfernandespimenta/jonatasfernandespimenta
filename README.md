@@ -30,13 +30,12 @@
 
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
 
-<img width=600 src="https://github-readme-stats.vercel.app/api?username=jonatasfernandespimenta&theme=blueberry&show_icons=true" />
  
 <img width=230 src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasfernandespimenta&show_icons=true&theme=blueberry&hide_border=true&cache_seconds=1800&locale=en" alt="jhonny" />
-
-  </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%B4natas-fernandes-pimenta-67069b199/)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatasfernandespimenta@gmail.com)
+
+  </p>
 
